@@ -29,4 +29,11 @@ STEP 6: Calibration of the model parameters. The calibration process was carried
 
 STEP 7: Water budget analysis. Flopy packages provide many useful functions to help analyze the water budget. It can be referred to the codes we provided or paper (Hughes et al., 2023).
 
+Niswonger, R. G., Prudic, D. E., & Regan, R. S. (2006). Documentation of the Unsaturated-Zone Flow (UZF1) package for modeling unsaturated flow between the land surface and the water table with MODFLOW-2005. Retrieved from https://pubs.usgs.gov/tm/2006/tm6a19/
+
+Winston, R.B., 2019, ModelMuse version 4—A graphical user interface for MODFLOW 6: U.S. Geological Survey Scientific Investigations Report 2019–5036, 10 p., https://doi.org/10.3133/sir20195036.
+
+Langevin, C.D., Hughes, J.D., Banta, E.R., Niswonger, R.G., Panday, S. and Provost, A.M., 2017. Documentation for the MODFLOW 6 groundwater flow model (No. 6-A55). US Geological Survey.
+
+Hughes, J. D., Langevin, C. D., Paulinski, S. R., Larsen, J. D., & Brakenhoff, D. (2023). FloPy Workflows for Creating and Constructing Structured and Unstructured MODFLOW 6 Models. Groundwater.
 
